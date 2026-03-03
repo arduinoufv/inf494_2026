@@ -17,6 +17,12 @@ Processamento de Alto Desempenho
 
 ### Colabs
 
+#### Introdutórios
+
+* [exemplo de CUDA com iwidget](https://colab.research.google.com/drive/1P5nIk0NIoLq3Q7JiyacJZNb7XS7YW6QY?usp=sharing)
+* [exemplo de CUDA básico com interface Javascript](https://colab.research.google.com/drive/1KVe1O0-va4kftR1iULPqzQmwP6Jt4sWW?usp=sharing)
+-----
+* [vários links em vários níveis](https://colab.research.google.com/drive/1QMRzDW3xsVlvo8kiEnkPDEqftkdTPvOx?usp=sharing)
 
 
 ----------
