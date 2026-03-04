@@ -1,6 +1,8 @@
 # inf494_2026
 Processamento de Alto Desempenho
 
+## plano de estudos e objetivos [clique aqui](https://github.com/arduinoufv/inf494_2026/blob/main/plano.md)
+
 ## Avaliação: 
 * 20 pontos - Curso DLI Nvidia com certificação Fundamentos de Machine Learning
 * 40 pontos - Redação de um artigo científico em grupo
