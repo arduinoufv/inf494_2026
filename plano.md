@@ -36,8 +36,6 @@
 ### Cronograma de Aulas (Resumo)
 
 | Período | Tópicos Principais | Atividades / Capítulos 
-
- |
 | --- | --- | --- |
 | **Março** | **Fundamentos CUDA** | Introdução a GPUs, Blocos, Grids, Warps e Divergência. |
 | **Abril** | **Otimização e Memória** | Alocação, Coalesced (AoS vs SoA), Shared Memory e Streams. |
