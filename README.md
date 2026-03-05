@@ -36,6 +36,7 @@ Processamento de Alto Desempenho
 * Árvores para explicabilidade de Hierarquicos
 * Mapeamento de estilos de código em PTX
 * Placement Simulated Annealing
+* Placement com 2 níveis com K-means
 * Placement Travessia
 * Redes de Interconexão
 ---------  
