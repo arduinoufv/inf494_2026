@@ -12,7 +12,7 @@ Processamento de Alto Desempenho
 
 ## Material Didático
 
-* Livro texto será ["Professional CUDA C Programming" authored by John Cheng](https://colab.research.google.com/drive/15JNegXfwauHfQyBlV8ZqkxiaSZoZXRKw?usp=sharing#scrollTo=8d1KmO1xHK5T)
+* Livro texto será ["Professional CUDA C Programming" authored by John Cheng](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cs.utexas.edu/~rossbach/cs380p/papers/cuda-programming.pdf&ved=2ahUKEwjiseuYv46TAxXUp5UCHQ0TO8wQFnoECBgQAQ&usg=AOvVaw2m0tWbGkycv_ktOjwbJAQs)
 * [Livro - github com códigos e exercícios](https://github.com/deeperlearning/professional-cuda-c-programming/tree/master/solutions)
 * [site oficial Wiley do livro](https://www.wiley.com/en-us/Professional+CUDA+C+Programming-p-9781118739310)
 * [Site Orreily do Livro](https://www.wiley.com/en-us/Professional+CUDA+C+Programming-p-9781118739310)
