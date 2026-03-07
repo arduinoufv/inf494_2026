@@ -13,6 +13,9 @@ Processamento de Alto Desempenho
 ## Material Didático
 
 * Livro texto será ["Professional CUDA C Programming" authored by John Cheng](https://colab.research.google.com/drive/15JNegXfwauHfQyBlV8ZqkxiaSZoZXRKw?usp=sharing#scrollTo=8d1KmO1xHK5T)
+* [Livro - github com códigos e exercícios](https://github.com/deeperlearning/professional-cuda-c-programming/tree/master/solutions)
+* [site oficial Wiley do livro](https://www.wiley.com/en-us/Professional+CUDA+C+Programming-p-9781118739310)
+* [Site Orreily do Livro](https://www.wiley.com/en-us/Professional+CUDA+C+Programming-p-9781118739310)
 * Artigos da [pasta drive](https://drive.google.com/drive/folders/1mWvfJq9TCMZQ6TGfkRXX_tUgaj6opAwk?usp=sharing)
 
 ----------
@@ -41,7 +44,9 @@ Processamento de Alto Desempenho
 * Redes de Interconexão
 ---------  
 ## Aulas
-* 9/3/26 - Cap 1 livro texto: GPU e Hello World
+### 9/3/26 - Cap 1 livro texto: GPU e Hello World
+* [notebooklm com resumo](https://notebooklm.google.com/notebook/29ec6a7d-c8ac-4a31-928b-d30ceca3b9f3)
+----
 * 11/3/26 - Apresentação dos temas de artigo e definição dos grupos
 * 16/3/26 - Cap 2 : Blocos e Grids
 * 18/3/26 - Cap 3 : Arquitetura, Warps e Divergências
