@@ -57,10 +57,10 @@ Processamento de Alto Desempenho
 * [Segundo Colab Exercício - data Entrega 25 Março 26](https://colab.research.google.com/drive/1Kaw8aZkt7Pdf-x6Se6mhFxL9UX_SmfSY?usp=sharing)
 ----
 ### 18/3/26 - Cap 3 : Arquitetura, Warps e Divergências
+### 23/3/26 - Cap 3 : Redução, Ocupação e Latência
 * [Terceiro Colab = data Entrega 1 Abril 26](https://colab.research.google.com/drive/1puAQJYDarvTjs2bRoFKMGc14_QE8-SQM?usp=sharing)
 ---  
-### 23/3/26 - Cap 3 : Redução, Ocupação e Latência
----
+
 * 25/3/26 - Cap 4 : Memória Alocação e Transferência
 * 30/3/26 - Cap 4 : Coalesced, AoS e SoA
 * 1/4 - Cap5: Shared, Sync, Transposição
