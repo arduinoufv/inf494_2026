@@ -22,7 +22,9 @@ Processamento de Alto Desempenho
 
 ### Colabs
 
-* [vários links em vários níveis](https://colab.research.google.com/drive/1QMRzDW3xsVlvo8kiEnkPDEqftkdTPvOx?usp=sharing)
+* [GPU - vários links em vários níveis](https://colab.research.google.com/drive/1QMRzDW3xsVlvo8kiEnkPDEqftkdTPvOx?usp=sharing)
+* [coleção de colab para ensino em geral](https://colab.research.google.com/drive/1uolTDsEoZwpa5UakKBWhhU2nw1yJiCZA?usp=sharing)
+* [Minicurso de 2020 de CUDA](https://docs.google.com/presentation/d/1xoLUgo0WvV8-o4lZiZmZFalHhEcdQshw8Tah06_d6Ys/edit?usp=sharing)
 
 
 ----------
