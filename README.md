@@ -32,7 +32,7 @@ Processamento de Alto Desempenho
 ----------
 
 ## Temas dos Trabalhos (podem propor sugestões alinhadas com problemas de pesquisa)
-* Comparadores em Árvores
+* Comparadores em Árvores[excalidraw](https://excalidraw.com/#json=HDr_ELjwrrJcztPvxXKJq,ssqveZc7IeJrU_x7knTMNg)
 * Árvores para explicabilidade de Kmeans
 * Árvores para explicabilidade de DBscan
 * Árvores para explicabilidade de Hierarquicos
