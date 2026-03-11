@@ -33,9 +33,9 @@ Processamento de Alto Desempenho
 
 ## Temas dos Trabalhos (podem propor sugestões alinhadas com problemas de pesquisa)
 * Comparadores em Árvores[excalidraw](https://excalidraw.com/#json=HDr_ELjwrrJcztPvxXKJq,ssqveZc7IeJrU_x7knTMNg)
-* Árvores para explicabilidade de Kmeans
-* Árvores para explicabilidade de DBscan
-* Árvores para explicabilidade de Hierarquicos
+* Árvores para explicabilidade de Kmeans [excalidraw](https://excalidraw.com/#json=Gq3tofZz-ffNDTo1B323E,RUVG8AFKj8tTaIZ-Jz2hKg)
+* Árvores para explicabilidade de DBscan [excalidraw](https://excalidraw.com/#json=C0uDdYKd1UdGutBXSUdnO,Fg127NSHhHDNX_8_hht1EQ)
+* Árvores para explicabilidade de Hierarquicos[excalidraw](https://excalidraw.com/#json=4B3CbOkXshGoF0M8d7TC6,7XSU8ZAf9l3SmtHwxFqadg)
 * Mapeamento de estilos de código em PTX
 * Placement Simulated Annealing
 * Placement com 2 níveis com K-means
