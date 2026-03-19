@@ -57,6 +57,7 @@ Processamento de Alto Desempenho
 * [Segundo Colab Exercício - data Entrega 25 Março 26](https://colab.research.google.com/drive/1Kaw8aZkt7Pdf-x6Se6mhFxL9UX_SmfSY?usp=sharing)
 ----
 ### 18/3/26 - Cap 3 : Arquitetura, Warps e Divergências
+* [Gravação da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nPDTJKWmiqazCUH3p0qNI4)
 ### 23/3/26 - Cap 3 : Redução, Ocupação e Latência
 * [Terceiro Colab = data Entrega 1 Abril 26](https://colab.research.google.com/drive/1puAQJYDarvTjs2bRoFKMGc14_QE8-SQM?usp=sharing)
 ---  
