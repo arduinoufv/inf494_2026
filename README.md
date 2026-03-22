@@ -64,8 +64,11 @@ Processamento de Alto Desempenho
 
 * 25/3/26 - Cap 4 : Memória Alocação e Transferência
 * 30/3/26 - Cap 4 : Coalesced, AoS e SoA
+  * [Colab Cap4](https://colab.research.google.com/drive/1kbyZSY-bsMS5T7wkPtCgF_GYrZu9BokJ?usp=sharing)
+
 * 1/4 - Cap5: Shared, Sync, Transposição
 * 6/4 - Cap5: Stencil, Constante
+  * [Colab Cap5](https://colab.research.google.com/drive/1EHlrOlNMysdltbcrOxrmseqwXIGpyC0H?usp=sharing) 
 * 8/4 = Cap 6: Streams
 * 13/4 - Cap 7: Atomico, Float, Shuffle
 * 15/4 - cap 8 - Bibliotecas CuRand, CuML, Trust....
