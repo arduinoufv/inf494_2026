@@ -6,7 +6,17 @@ Processamento de Alto Desempenho
 ## Avaliação: 
 * 20 pontos - Curso DLI Nvidia com certificação Fundamentos de Machine Learning
 * 40 pontos - Redação de um artigo científico em grupo
-* 40 pontos - Elaboração de Colab com testes automatizados e ferramentas de ensino
+* 40 pontos - Elaboração de Colab com testes automatizados e ferramentas de ensino:
+    * Cap1 2 pontos
+    * Cap2 2 pontos
+    * Cap3 4 pontos
+    * Cap4 2 pontos
+    * KNN e Dbscan 6 pontos
+    * Cap5 4 pontos
+    * Cap6 2 pontos
+    * Cap7 4 pontos
+    * Arvores 6 pontos
+    * Posicionamento FPGA 8 pontos
   
 --------
 
@@ -62,14 +72,14 @@ Processamento de Alto Desempenho
 * [Terceiro Colab = data Entrega 1 Abril 26](https://colab.research.google.com/drive/1puAQJYDarvTjs2bRoFKMGc14_QE8-SQM?usp=sharing)
 * [Video de Reducao - aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lsYSf3S6rYAbYyyL1-reRZ)
 ### 25/3/26 - Cap 4 : Memória Alocação e Transferência
-### 30/3/26 - Cap 4 : Coalesced, AoS e SoA
   * [Colab Cap4](https://colab.research.google.com/drive/1kbyZSY-bsMS5T7wkPtCgF_GYrZu9BokJ?usp=sharing)
+### 30/3/26 - Cap 4 : AoS e SoA + KNN e DBSCAN
   * [KNN](https://colab.research.google.com/drive/1fzjQkY-QvxLE60mK_a6YuST69XihYjxF?usp=sharing)
-    
 ### 1/4 - Cap5: Shared, Sync, Transposição
-* 6/4 - Cap5: Stencil, Constante
+### 6/4 - Cap5: Stencil, Constante
   * [Colab Cap5](https://colab.research.google.com/drive/1EHlrOlNMysdltbcrOxrmseqwXIGpyC0H?usp=sharing) 
-* 8/4 = Cap 6: Streams
+* 8/4 -  Cap 6: Streams
+  
 * 13/4 - Cap 7: Atomico, Float, Shuffle
 * 15/4 - cap 8 - Bibliotecas CuRand, CuML, Trust....
 * 22/4 - Assembler PTX
