@@ -14,9 +14,10 @@ Processamento de Alto Desempenho
     * KNN e Dbscan 6 pontos
     * Cap5 4 pontos
     * Cap6 2 pontos
-    * Cap7 4 pontos
+    * Cap7 2 pontos
     * Arvores 6 pontos
-    * Posicionamento FPGA 8 pontos
+    * Posicionamento FPGA 6 pontos
+    * outros 4 pontos
   
 --------
 
