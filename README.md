@@ -83,9 +83,12 @@ Processamento de Alto Desempenho
 ### 1/4 - Cap5: Shared, Sync, Transposição
 ### 6/4 - Cap5: Stencil, Constante
   * [Colab Cap5](https://colab.research.google.com/drive/1EHlrOlNMysdltbcrOxrmseqwXIGpyC0H?usp=sharing) 
-* 8/4 -  Cap 6: Streams
+### 8/4 -  Cap 6: Streams
+  * [Colab capitulo 6](https://colab.research.google.com/drive/1eKpbMF08c-jtClQGLiXp8aNsMwb7Nhju?usp=sharing) 
   
-* 13/4 - Cap 7: Atomico, Float, Shuffle
+### 13/4 - Cap 7: Atomico, Float, Shuffle
+  * [Colab capitulo 7](https://colab.research.google.com/drive/17mNahDhk4Vi1AKh47F3qhfnINGJiG2e7?usp=sharing) 
+
 * 15/4 - cap 8 - Bibliotecas CuRand, CuML, Trust....
 * 22/4 - Assembler PTX
 * 27/4 - Python
