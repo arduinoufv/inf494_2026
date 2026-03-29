@@ -30,6 +30,11 @@ Processamento de Alto Desempenho
 
 ----------
 
+### Como usar na sala 416 as 4060 
+
+* [seguir o roteiro](https://github.com/Olavo-B/rapids-cuda-env)
+-------
+
 ### Colabs
 
 * [GPU - vários links em vários níveis](https://colab.research.google.com/drive/1QMRzDW3xsVlvo8kiEnkPDEqftkdTPvOx?usp=sharing)
