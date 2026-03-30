@@ -28,7 +28,8 @@ Processamento de Alto Desempenho
 * [site oficial Wiley do livro](https://www.wiley.com/en-us/Professional+CUDA+C+Programming-p-9781118739310)
 * [Site Orreily do Livro](https://www.wiley.com/en-us/Professional+CUDA+C+Programming-p-9781118739310)
 * Artigos da [pasta drive](https://drive.google.com/drive/folders/1mWvfJq9TCMZQ6TGfkRXX_tUgaj6opAwk?usp=sharing)
-
+* [github com codigos e aulas](https://github.com/gpu-mode/lectures)
+* 
 ----------
 
 ### Como usar na sala 416 as 4060 
