@@ -82,25 +82,39 @@ Processamento de Alto Desempenho
   * [Colab Cap4](https://colab.research.google.com/drive/1kbyZSY-bsMS5T7wkPtCgF_GYrZu9BokJ?usp=sharing)
 ### 30/3/26 - Cap 4 : AoS e SoA + KNN e DBSCAN
   * [KNN](https://colab.research.google.com/drive/1fzjQkY-QvxLE60mK_a6YuST69XihYjxF?usp=sharing)
-### 1/4 - Cap5: Shared, Sync, Transposição
-### 6/4 - Cap5: Stencil, Constante
+### 6/4 - Cap5: Shared, Sync, Transposição
+### 8/4 - Cap5: Stencil, Constante
   * [Colab Cap5](https://colab.research.google.com/drive/1EHlrOlNMysdltbcrOxrmseqwXIGpyC0H?usp=sharing) 
-### 8/4 -  Cap 6: Streams
+### 13/4 -  Cap 6: Streams
   * [Colab capitulo 6](https://colab.research.google.com/drive/1eKpbMF08c-jtClQGLiXp8aNsMwb7Nhju?usp=sharing) 
   
-### 13/4 - Cap 7: Atomico, Float, Shuffle
+### 15/4 - Cap 7: Atomico, Float, Shuffle
   * [Colab capitulo 7](https://colab.research.google.com/drive/17mNahDhk4Vi1AKh47F3qhfnINGJiG2e7?usp=sharing) 
 
-* 15/4 - cap 8 - Bibliotecas CuRand, CuML, Trust....
-* 22/4 - Assembler PTX
-* 27/4 - Python
-* 29/4 - Problema Kmeans
-* 4/5 - Random Forest , Boost, Kmeans
-* 6/5 - Comparadores em Árvores e Acuracia
-* 11/5 - Placement Simulated Annealing
-* 13/5 - Placement com Travessia
-* 18/5 - Alg de Ordenação, KNN
-* 20/5 - Redes de Interconexão
+### 22/4 - cap 8 - Bibliotecas CuRand, CuML, Trust....
+### 27/4 - Assembler PTX
+* [Wscad 2019](https://colab.research.google.com/drive/1caBu4aCskJMyojYbU55a0aexxGZY0L_M?usp=sharing)
+
+### 29/4 - Python
+* [pyda introdução](https://colab.research.google.com/drive/1caBu4aCskJMyojYbU55a0aexxGZY0L_M?usp=sharing)
+* [Pycuda exemplo do SSCAD25](https://colab.research.google.com/drive/1b78ob5rT-1fPbN1EH6FdLpc5IAmBGLRX?usp=sharing)
+* [Numba](https://colab.research.google.com/drive/1Wjq6XBAn1ZgbP9fcvYy4XXZKd8RmajtR?usp=sharing)
+  
+### 4/5 - Problema Kmeans
+* [Primeiras versões do Kmeans](https://colab.research.google.com/drive/1XAA0XDVIJbAmjus9NfdE-dHaYAAlwWUM?usp=sharing)
+* [Como estimar o uso de registradores do Kmeans](https://colab.research.google.com/drive/1v5hc0cPV14KRPCKvwmAPQ9ah_NeBIbI0?usp=sharing)
+* [Versão do Gerador multiplos K - Walter Bueno](https://colab.research.google.com/drive/1MnY9OwuiKIts59jQgfQoFh11doyJie8I?usp=sharing)
+  
+### 6/5 - Random Forest , Boost, Kmeans
+
+### 11/5 - Comparadores em Árvores e Acuracia
+
+### 13/5 - Placement Simulated Annealing
+
+### 18/5 - Placement com Travessia
+
+### 20/5 - Redes de Interconexão
+
 * 25/5 - Outros Topicos
 * 27/5 - Outros Tópicos
 * 1 a 8/6 - Preparação dos Artigos
