@@ -93,7 +93,7 @@ Processamento de Alto Desempenho
 
 ### 22/4 - cap 8 - Bibliotecas CuRand, CuML, Trust....
 ### 27/4 - Assembler PTX
-* [Wscad 2019](https://colab.research.google.com/drive/1caBu4aCskJMyojYbU55a0aexxGZY0L_M?usp=sharing)
+* [Inf450](https://colab.research.google.com/drive/1gRT1mwLk2Woip9c-Lgklc4gzOsh9IKwi?usp=sharing)
 
 ### 29/4 - Python
 * [pyda introdução](https://colab.research.google.com/drive/1caBu4aCskJMyojYbU55a0aexxGZY0L_M?usp=sharing)
