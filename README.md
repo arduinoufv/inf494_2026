@@ -84,7 +84,8 @@ Processamento de Alto Desempenho
   * [KNN](https://colab.research.google.com/drive/1fzjQkY-QvxLE60mK_a6YuST69XihYjxF?usp=sharing)
 ### 6/4 - Cap5: Shared, Sync, Transposição
 ### 8/4 - Cap5: Stencil, Constante
-  * [Colab Cap5](https://colab.research.google.com/drive/1EHlrOlNMysdltbcrOxrmseqwXIGpyC0H?usp=sharing) 
+  * [Colab Cap5](https://colab.research.google.com/drive/1EHlrOlNMysdltbcrOxrmseqwXIGpyC0H?usp=sharing)
+  * [Slides Nvidia de 2011 com Stencil 1D](https://drive.google.com/file/d/1p5Q550yCeIAcNswJgjB8cM-BIgDftiBX/view?usp=sharing)
 ### 13/4 -  Cap 6: Streams
   * [Colab capitulo 6](https://colab.research.google.com/drive/1eKpbMF08c-jtClQGLiXp8aNsMwb7Nhju?usp=sharing) 
   
