@@ -86,6 +86,7 @@ Processamento de Alto Desempenho
 ### 8/4 - Cap5: Stencil, Constante
   * [Colab Cap5](https://colab.research.google.com/drive/1EHlrOlNMysdltbcrOxrmseqwXIGpyC0H?usp=sharing)
   * [Slides Nvidia de 2011 com Stencil 1D](https://drive.google.com/file/d/1p5Q550yCeIAcNswJgjB8cM-BIgDftiBX/view?usp=sharing)
+  * [Capithreads](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mpwkGtbHssIH3JVBZQixJ7)
 ### 13/4 -  Cap 6: Streams
   * [Colab capitulo 6](https://colab.research.google.com/drive/1eKpbMF08c-jtClQGLiXp8aNsMwb7Nhju?usp=sharing) 
   
