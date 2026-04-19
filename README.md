@@ -109,6 +109,7 @@ Processamento de Alto Desempenho
 * [Primeiras versões do Kmeans](https://colab.research.google.com/drive/1XAA0XDVIJbAmjus9NfdE-dHaYAAlwWUM?usp=sharing)
 * [Como estimar o uso de registradores do Kmeans](https://colab.research.google.com/drive/1v5hc0cPV14KRPCKvwmAPQ9ah_NeBIbI0?usp=sharing)
 * [Versão do Gerador multiplos K - Walter Bueno](https://colab.research.google.com/drive/1MnY9OwuiKIts59jQgfQoFh11doyJie8I?usp=sharing)
+* Calcular silueta "estilo" knn e avaliar.
 
 ### 4/5 - Random Forest , Boost, Kmeans
 ### 6/5 - Comparadores em Árvores e Acuracia
