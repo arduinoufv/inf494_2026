@@ -96,6 +96,7 @@ Processamento de Alto Desempenho
  
 ### 22/4 - Assembler PTX
 * [Inf450](https://colab.research.google.com/drive/1gRT1mwLk2Woip9c-Lgklc4gzOsh9IKwi?usp=sharing)
+* [PTX instruções especiais](https://colab.research.google.com/drive/1j0YOjOSIf8Xo1X4nALuJJjoE0Y-ReL9E?usp=sharing)
 
 ### 27/4 - Python 
 * [pyda introdução](https://colab.research.google.com/drive/1caBu4aCskJMyojYbU55a0aexxGZY0L_M?usp=sharing)
