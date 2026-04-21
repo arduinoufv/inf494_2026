@@ -101,9 +101,10 @@ Processamento de Alto Desempenho
 * [T4 detalhes](https://drive.google.com/file/d/1lCZVKniTPoEFuBhptEUM7OoCHdINkD2g/view?usp=sharing)
 
 ### 27/4 - Python 
-* [pyda introdução](https://colab.research.google.com/drive/1caBu4aCskJMyojYbU55a0aexxGZY0L_M?usp=sharing)
+* [pyda introdução básico](https://colab.research.google.com/drive/16ARpMLlQyk90-7kSdfj2IV95kMiislnX?usp=sharing)e [notebooklm](https://notebooklm.google.com/notebook/9fda7766-95af-47e3-9c29-c4e057f348d4)
+* [Pycuda com exemplo soma de vetores](https://colab.research.google.com/drive/14dKXfQz5eOINaqypOaeSRpNON6sRUeIT?usp=sharing)
 * [Pycuda exemplo do SSCAD25](https://colab.research.google.com/drive/1b78ob5rT-1fPbN1EH6FdLpc5IAmBGLRX?usp=sharing)
-* [Numba](https://colab.research.google.com/drive/1Wjq6XBAn1ZgbP9fcvYy4XXZKd8RmajtR?usp=sharing)
+* [Numba](https://colab.research.google.com/drive/1SCNepOQaF2wpWsQrW7NNKvaH1nKrf4ie?usp=sharing)
   
 ### 29/4 Problema Kmeans
 * [Primeiras versões do Kmeans](https://colab.research.google.com/drive/1XAA0XDVIJbAmjus9NfdE-dHaYAAlwWUM?usp=sharing)
