@@ -94,7 +94,7 @@ Processamento de Alto Desempenho
  
 ### 15/4 - cap 8 - Bibliotecas CuRand, CuML, Trust....
  
-### 22/4 - Assembler PTX
+### 22/4 - Assembler PTX [Gravação da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6l_oHmMR-pOAqVxEaorA6Dj)
 * [Inf450](https://colab.research.google.com/drive/1gRT1mwLk2Woip9c-Lgklc4gzOsh9IKwi?usp=sharing)
 * [PTX instruções especiais](https://colab.research.google.com/drive/1j0YOjOSIf8Xo1X4nALuJJjoE0Y-ReL9E?usp=sharing)
 * [Micro benchmark](https://drive.google.com/file/d/1s5TMCcHJKMPYqF98CoAQJrc7kiegZS_Q/view?usp=sharing)
