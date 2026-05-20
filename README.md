@@ -6,6 +6,7 @@ Processamento de Alto Desempenho
 ## Avaliação: 
 * 20 pontos - Curso DLI Nvidia com certificação Fundamentos de Machine Learning
 * 40 pontos - Redação de um artigo científico em grupo
+      * [Grupos e Artigos]() 
 * 40 pontos - Elaboração de Colab com testes automatizados e ferramentas de ensino -  usar o [form para envio](https://forms.gle/qtYD2Uti5mHh1pjc7) 
     * Cap1 2 pontos
     * Cap2 2 pontos
