@@ -30,6 +30,7 @@ Isabela/Pedro/Mariana/Ellen/Matheus
         * Heuristica com Grafo (em andamento)
 ## Estratégias de Árvores 
 
+* [click here](https://colab.research.google.com/drive/1Fh49wZ9V1M5ju_cahO0FTUKKsBQCTIti?usp=sharing)
 ----------------------------------
 
 Guilherme TCC
