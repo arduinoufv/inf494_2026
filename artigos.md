@@ -42,10 +42,12 @@ Isabela/Pedro/Mariana/Ellen/Matheus
     * DBSCAN
        * Arvores
        * Heuristica com Grafo (em andamento)
-### Mariana, Ellen e Matheus       
+### Mariana, Ellen e Matheus  
+    * DBSCAN 
     * Cuml, Gemini-pro (Colab)
     * Aproximado - Drop nos "cores point"
     * Pacotes 8 e 4 bits. 
+    * Gerar datasets: variação de densidade e variação heterogenea (versão multi EPS)
     
 ## Estratégias de Árvores 
 
@@ -53,7 +55,23 @@ Isabela/Pedro/Mariana/Ellen/Matheus
 ----------------------------------
 
 Guilherme TCC
+* Variar o tamanho da arvores
 
 ## Placement
 
 ## PTX instruções especiais
+------------------------------------------
+# Operadores Tensores
+## Caio
+* GEMM demonstração
+* KNN
+      * CUDA com tensores
+      * Makeclassification
+      * baseline: "Pytorch", CuML float16, int8 (CUDA)
+      * Float16
+      * Artigos que usam tensores em outras aplicações
+------------------------------
+## Luiz, Lucas, Henrique
+* Ler segmentos (pulos de grid) de um vetor
+* Validar os algoritmos de ordenação (bolha, insercao, merge, odd-even, quick, radix, selecao)
+* Ferramentas de visualizacao e estatistica de PTX.
