@@ -1,6 +1,18 @@
+## Alocar tarefas - Luiz, Lucas, Henrique, Caio
 # Colabs
 
 * [Float4 e 3](https://colab.research.google.com/drive/1_Sz2RDr3mAZvfZ4FZZdYUM07d0A5aFhm?usp=sharing)
+    * fazer uma simulação da soma, multiplicacao Float 4 ou 3
+         * definir a faixa
+         * simular com dados do makeclassification para KNN
+         * medir tempo com tabela em memória versus código emulado em GPU 
+
+* Algoritmos de ordenação e PTX
+* Ferramentas para estatisticas do PTX, editor que marca "trechos PTX" e mostra grafos
+* Uso de instruções especiais em assembler para "campos de bits"
+* teste se "forcamos uma ordem no PTX" (exemplo ordenação, IF de árvores, Kmeans)
+* Gráficos de desempenho 
+*      
 
 # Artigos
 
