@@ -4,30 +4,37 @@
 
 # Artigos
 
-Ian/Leanderson/Nicolas/Luis
+Ian/Leanderson/Nicolas
 
 ## KNN e Quantização
-* Mnist com 1,2,3, 4 e 8 bits - KNN 50k 40k (fake 4x10K)
+### IAN 
+ * Mnist com 1,2,3, 4 e 8 bits - KNN 50k 40k (fake 4x10K)
  *  1 bit = Xor e Popcount , acuracia ok, 
  *  2 bit = shift e subtracao - ADICIONAR xor e popcount APROXIMADO
  *  3,4 e 8 bits = shift e subtracao  (teste PAD 3bits + pad, não mudou tempo)
- *  ADICIONAR CIFAR10, baseline CUML, 2 CNN pytorch resnet18 e lenet
+### Nicolas
+ 
+ * ADICIONAR CIFAR10, baseline CUML, 2 CNN pytorch resnet18 e lenet
  * ADICIONAR Drop com Clock e grupo
 
 ## Placement
-
+### Leanderson
+### Luis
 --------------------------------------------------
 
 Isabela/Pedro/Mariana/Ellen/Matheus
 ## Kmeans e DBSCAN
- * Kmeans
-    * Arvores 
- * DBSCAN
-    * Arvores
+ ### Pedro e Isabela (IC)
+    * Kmeans
+       * Arvores - Explicabilidade   
+    * DBSCAN
+       * Arvores
+       * Heuristica com Grafo (em andamento)
+### Mariana, Ellen e Matheus       
     * Cuml, Gemini-pro (Colab)
-        * Aproximado - Drop nos "cores point"
-        * Pacotes 8 e 4 bits. 
-        * Heuristica com Grafo (em andamento)
+    * Aproximado - Drop nos "cores point"
+    * Pacotes 8 e 4 bits. 
+    
 ## Estratégias de Árvores 
 
 * [click here](https://colab.research.google.com/drive/1Fh49wZ9V1M5ju_cahO0FTUKKsBQCTIti?usp=sharing)
