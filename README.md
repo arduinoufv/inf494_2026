@@ -113,13 +113,25 @@ Processamento de Alto Desempenho
 * [Versão do Gerador multiplos K - Walter Bueno](https://colab.research.google.com/drive/1MnY9OwuiKIts59jQgfQoFh11doyJie8I?usp=sharing)
 * Calcular silueta "estilo" knn e avaliar.
 
-### 4/5 - Random Forest , Boost, Kmeans
-### 6/5 - Comparadores em Árvores e Acuracia
-### 11/5 - Placement com Travessia
-### 13/5 - Placement Simulated Annealing
-### 18/5 - Preparação dos Artigos
+### 4/5 - 
+### 6/5 -
+### 11/5 - 
+### 13/5 -
+### 18/5 -
 ### 20/5 - Redes de Interconexão
 * 25/5 - Outros Topicos
 * 27/5 - Outros Tópicos
-* 1 a 8/6 - 
+## 1/6 - Seminários de resultados parciais dos artigos
+ * Ian/Leanderson - Simulated Annealing
+ * Caio - Operadores Tensores
+ * Isabela e Pedro - Explicabilidade com Kmeans
+ * Outras técnicas
+## 3/6 - Seminários de resultados parciais dos artigos
+  * Lucas, Luiz Felipe e Henrique - Ordenação
+  * Guilherme - árvove com "ternários" de mais de três níveis
+  * Nicolas/Ian/leanderson - Quantizacao 
+## 8/6 - Seminários de resultados parciais dos artigos
+  * Luis Felipe - Travessia
+  * Matheus, Ellen e Mariana - DBscan
+
 * 8 a 22/6 - Curso Fundamentos em ML com Certificação
