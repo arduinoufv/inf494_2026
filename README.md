@@ -113,14 +113,7 @@ Processamento de Alto Desempenho
 * [Versão do Gerador multiplos K - Walter Bueno](https://colab.research.google.com/drive/1MnY9OwuiKIts59jQgfQoFh11doyJie8I?usp=sharing)
 * Calcular silueta "estilo" knn e avaliar.
 
-### 4/5 - 
-### 6/5 -
-### 11/5 - 
-### 13/5 -
-### 18/5 -
-### 20/5 - Redes de Interconexão
-* 25/5 - Outros Topicos
-* 27/5 - Outros Tópicos
+---------------------------------------
 ## 1/6 - Seminários de resultados parciais dos artigos
  * Ian/Leanderson - Simulated Annealing
  * Caio - Operadores Tensores
@@ -134,4 +127,3 @@ Processamento de Alto Desempenho
   * Luis Felipe - Travessia
   * Matheus, Ellen e Mariana - DBscan
 
-* 8 a 22/6 - Curso Fundamentos em ML com Certificação
