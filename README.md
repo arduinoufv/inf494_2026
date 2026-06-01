@@ -115,14 +115,14 @@ Processamento de Alto Desempenho
 
 ---------------------------------------
 ## 1/6 - Seminários de resultados parciais dos artigos
- * Ian/Leanderson - Simulated Annealing
- * Caio - Operadores Tensores
- * Isabela e Pedro - Explicabilidade com Kmeans
+ * [Ian/Leanderson - Simulated Annealing]()
+ * [Caio - Operadores Tensores](https://colab.research.google.com/drive/1kh0NGAdH2maLI4cFAY_-O-gPE6MTSLuc?usp=sharing)
+ * [Isabela e Pedro - Explicabilidade com Kmeans](https://colab.research.google.com/drive/1tTNt1eAfu-xdxff8B7DwRZXPr3Nw2u6c?usp=sharing)
  * Outras técnicas
 ## 3/6 - Seminários de resultados parciais dos artigos
   * Lucas, Luiz Felipe e Henrique - Ordenação
   * Guilherme - árvove com "ternários" de mais de três níveis
-  * Nicolas/Ian/leanderson - Quantizacao 
+  * Nicolas/Ian/leanderson - [Quantizacao](https://colab.research.google.com/drive/1I1gMBaVEjs4MVLQ3Iiy50CR9eLVRCjny) 
 ## 8/6 - Seminários de resultados parciais dos artigos
   * Luis Felipe - Travessia
   * Matheus, Ellen e Mariana - DBscan
